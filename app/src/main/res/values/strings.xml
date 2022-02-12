@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CurrentLocation</string>
+    <string name="current_location">Current Location</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="country_name">Country Name</string>
+    <string name="locality">Locality</string>
+    <string name="address">Address</string>
+</resources>
